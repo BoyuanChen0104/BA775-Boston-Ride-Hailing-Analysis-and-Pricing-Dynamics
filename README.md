@@ -9,4 +9,4 @@ Dashboard 1:
 ![dashboard1](https://github.com/BoyuanChen0104/BA775-Boston-Ride-Hailing-Analysis-and-Pricing-Dynamics/assets/140489778/d577d7bc-295a-41fe-8467-ab218439b725)
 
 Dashboard 2:
-
+![dashboard2](https://github.com/BoyuanChen0104/BA775-Boston-Ride-Hailing-Analysis-and-Pricing-Dynamics/assets/140489778/f73f7196-7901-48fa-bf87-ff8d360a7a82)
